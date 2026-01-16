@@ -24,4 +24,3 @@ Hope you're ready for a JavaScript pop quiz! There's a catch: you have to build 
 ## Submission
 
 Please submit the link to your public GitHub repository.
-
